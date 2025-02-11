@@ -1,10 +1,12 @@
 namen='''Damini Boedhoe
 Eren Çoskun
 Mark de Vries
-Piet
+Rihab El Arkoubi
 Azad Hemidli
 extra waarde1
 extra waarde2'''.split("\n");
+
+namen[3]="Piet"
 
 for n in range(3):
     print(namen[n])
