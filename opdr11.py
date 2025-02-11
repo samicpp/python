@@ -1,8 +1,7 @@
-i=int(input("how many:").strip())
+i=int(input("hoe vaak:").strip())
 
 while(i!=0):
     r=""
-    for l in range(i):
-        r+="*"
+    for l in range(i):r+="*"
     print(r)
     i-=1
