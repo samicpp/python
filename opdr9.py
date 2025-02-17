@@ -8,7 +8,7 @@ extra waarde2'''.split("\n");
 
 namen[3]="Piet"
 
-for n in range(3):print(namen[n])
+for n in namen[0:3]:print(n)
 
 print("\n")#line sepperator
 
