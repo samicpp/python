@@ -1,5 +1,5 @@
 print("lever een aantal getallen onderscheid met een komma `,`")
-csv=input("")
+csv=input(": ")
 
 l=csv.split(",")
 b=0

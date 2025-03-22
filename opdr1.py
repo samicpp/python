@@ -1,1 +1,1 @@
-f=int(input("nummer: "));print(f"Je getal was {f}, tel daar 10 bij op en je hebt {f+10}!")
+f=int(input("geef een nummer\n: "));print(f"Je getal was {f}, tel daar 10 bij op en je hebt {f+10}!")

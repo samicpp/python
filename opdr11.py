@@ -5,3 +5,8 @@ while(i!=0):
     for l in range(i):r+="*"
     print(r)
     i-=1
+
+
+teken = "?"
+
+print(4 * teken)
